@@ -170,6 +170,7 @@ button{
     position: relative;
     overflow: hidden;
     letter-spacing: 2px;
+    transition:0.5s;
 
 }
 
@@ -294,6 +295,7 @@ section .cards{
     display: flex;
     margin-left: 120px; 
     margin-right: 120px;
+    margin-bottom: 200px;
 
 }
 section .cards .text-cards{
@@ -308,6 +310,7 @@ section .cards .text-cards h3{
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 10px;
+    
 }
 
 
